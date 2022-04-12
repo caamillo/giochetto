@@ -1,0 +1,104 @@
+{
+    "data" : [
+        {
+            "nomemazzo" : "il deck del federico perdente",
+            "carte" : [
+                {
+                    "nomecarta" : "federico il bastardone",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "federico",
+                    "manacarta" : 13,
+                    "dmgcarta" : 60,
+                    "hpcarta" : 100,
+                    "naturacarta" : "acqua"
+                },
+                {
+                    "nomecarta" : "federico swag",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "federico",
+                    "manacarta" : 1,
+                    "dmgcarta" : 1,
+                    "hpcarta" : 1,
+                    "naturacarta" : "erba"
+                },
+                {
+                    "nomecarta" : "fornazz",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "fornazzo",
+                    "manacarta" : 4,
+                    "dmgcarta" : 500,
+                    "hpcarta" : 100,
+                    "naturacarta" : "fuoco"
+                },
+                {
+                    "nomecarta" : "fede super saiyan",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "fede",
+                    "manacarta" : 2,
+                    "dmgcarta" : 600,
+                    "hpcarta" : 5,
+                    "naturacarta" : "fuoco"
+                },
+                {
+                    "nomecarta" : "cristini simonetta",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "professoressa",
+                    "manacarta" : 3,
+                    "dmgcarta" : 900,
+                    "hpcarta" : 1000,
+                    "naturacarta" : "erba"
+                }
+            ]
+        },
+        {
+            "nomemazzo" : "camillo",
+            "carte" : [
+                {
+                    "nomecarta" : "camillo",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "camillo",
+                    "manacarta" : 2,
+                    "dmgcarta" : 50,
+                    "hpcarta" : 100,
+                    "naturacarta" : "fuoco"
+                },
+                {
+                    "nomecarta" : "fornaro brutto",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "fornaro",
+                    "manacarta" : 1,
+                    "dmgcarta" : 1,
+                    "hpcarta" : 3000,
+                    "naturacarta" : "acqua"
+                },
+                {
+                    "nomecarta" : "bruno",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "bruno",
+                    "manacarta" : 1,
+                    "dmgcarta" : 80,
+                    "hpcarta" : 80,
+                    "naturacarta" : "erba"
+                },
+                {
+                    "nomecarta" : "micalone",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "micalone",
+                    "manacarta" : 5,
+                    "dmgcarta" : 99999,
+                    "hpcarta" : 1,
+                    "naturacarta" : "acqua"
+                },
+                {
+                    "nomecarta" : "birillo",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "birillo",
+                    "manacarta" : 10,
+                    "dmgcarta" : 5,
+                    "hpcarta" : 100000,
+                    "naturacarta" : "fuoco"
+                }
+            ]
+        }
+    ]
+}
