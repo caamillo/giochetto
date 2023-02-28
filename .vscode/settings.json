@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "giochetto/**/*.jar"
+        ],
+        "exclude": [
+            "giochetto/giochetto.jar",
+            "giochetto/bin/giochetto.jar"
+        ]
+    },
+    "java.project.sourcePaths": [
+        "giochetto/src",
+        "giochetto/json",
+        "client"
+    ]
+}

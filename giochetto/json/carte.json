@@ -1,0 +1,204 @@
+{
+    "data" : [
+        {
+            "nomemazzo" : "Il deck di Federico",
+            "carte" : [
+                {
+                    "nomecarta" : "Kuriboh",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck federico",
+                    "manacarta" : 1,
+                    "dmgcarta" : 1000,
+                    "hpcarta" : 500,
+                    "naturacarta" : "oscurità"
+                },
+                {
+                    "nomecarta" : "Hamon, Signore del Tuono Fragoroso",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck federico",
+                    "manacarta" : 3,
+                    "dmgcarta" : 1500,
+                    "hpcarta" : 2000,
+                    "naturacarta" : "oscurità"
+                },
+                {
+                    "nomecarta" : "Uria, Signore delle Fiamme Ardenti",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck federico",
+                    "manacarta" : 5,
+                    "dmgcarta" : 2000,
+                    "hpcarta" : 1000,
+                    "naturacarta" : "oscurità"
+                },
+                {
+                    "nomecarta" : "Raviel, Re dei Fantasmi",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck federico",
+                    "manacarta" : 7,
+                    "dmgcarta" : 2800,
+                    "hpcarta" : 2800,
+                    "naturacarta" : "oscurità"
+                },
+                {
+                    "nomecarta" : "Armityle il Fantasma del Chaos",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck federico",
+                    "manacarta" : 10,
+                    "dmgcarta" : 10000,
+                    "hpcarta" : 10000,
+                    "naturacarta" : "oscurità"
+                }
+            ]
+        },
+        {
+            "nomemazzo" : "Il deck di Fornaro",
+            "carte" : [
+                {
+                    "nomecarta" : "Fornaro LV1",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck fornaro",
+                    "manacarta" : 1,
+                    "dmgcarta" : 1000,
+                    "hpcarta" : 1000,
+                    "naturacarta" : "luce"
+                },
+                {
+                    "nomecarta" : "Fornaro LV3",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck fornaro",
+                    "manacarta" : 3,
+                    "dmgcarta" : 1500,
+                    "hpcarta" : 1300,
+                    "naturacarta" : "luce"
+                },
+                {
+                    "nomecarta" : "Fornaro LV5",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck fornaro",
+                    "manacarta" : 5,
+                    "dmgcarta" : 2300,
+                    "hpcarta" : 1400,
+                    "naturacarta" : "luce"
+                },
+                {
+                    "nomecarta" : "Fornaro LV7",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck fornaro",
+                    "manacarta" : 7,
+                    "dmgcarta" : 2800,
+                    "hpcarta" : 1500,
+                    "naturacarta" : "luce"
+                },
+                {
+                    "nomecarta" : "Fornaro Spadaccino del Cielo",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck fornaro",
+                    "manacarta" : 10,
+                    "dmgcarta" : 4000,
+                    "hpcarta" : 3500,
+                    "naturacarta" : "luce"
+                }
+            ]
+        },
+        {
+            "nomemazzo" : "Il deck del Gruppo",
+            "carte" : [
+                {
+                    "nomecarta" : "Samuele Fornaro",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck gruppo",
+                    "manacarta" : 1,
+                    "dmgcarta" : 1000,
+                    "hpcarta" : 500,
+                    "naturacarta" : "umano"
+                },
+                {
+                    "nomecarta" : "Niko Mennucci",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck gruppo",
+                    "manacarta" : 4,
+                    "dmgcarta" : 2000,
+                    "hpcarta" : 1800,
+                    "naturacarta" : "umano"
+                },
+                {
+                    "nomecarta" : "Federico Sportiello",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck gruppo",
+                    "manacarta" : 5,
+                    "dmgcarta" : 3000,
+                    "hpcarta" : 2500,
+                    "naturacarta" : "umano"
+                },
+                {
+                    "nomecarta" : "Matteo Camillo",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck fornaro",
+                    "manacarta" : 7,
+                    "dmgcarta" : 3088,
+                    "hpcarta" : 4088,
+                    "naturacarta" : "umano"
+                },
+                {
+                    "nomecarta" : "Danilo Micalone",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck gruppo",
+                    "manacarta" : 10,
+                    "dmgcarta" : 5000,
+                    "hpcarta" : 5000,
+                    "naturacarta" : "umano"
+                }
+            ]
+        },
+        {
+            "nomemazzo" : "Il deck di Camillo",
+            "carte" : [
+                {
+                    "nomecarta" : "Numero 1: Cancello Numeron Ekam",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck camillo",
+                    "manacarta" : 1,
+                    "dmgcarta" : 1000,
+                    "hpcarta" : 100,
+                    "naturacarta" : "demone"
+                },
+                {
+                    "nomecarta" : "Numero 2: Cancello Numeron Dve",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck camillo",
+                    "manacarta" : 2,
+                    "dmgcarta" : 1000,
+                    "hpcarta" : 100,
+                    "naturacarta" : "demone"
+                },
+                {
+                    "nomecarta" : "Numero 3: Cancello Numeron Trini",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck camillo",
+                    "manacarta" : 3,
+                    "dmgcarta" : 1000,
+                    "hpcarta" : 100,
+                    "naturacarta" : "demone"
+                },
+                {
+                    "nomecarta" : "Numero 4: Cancello Numeron Catvari",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck camillo",
+                    "manacarta" : 4,
+                    "dmgcarta" : 1000,
+                    "hpcarta" : 100,
+                    "naturacarta" : "demone"
+                },
+                {
+                    "nomecarta" : "Spettralich il Signore Dorato",
+                    "tipocarta" : "mostro",
+                    "desccarta" : "deck camillo",
+                    "manacarta" : 10,
+                    "dmgcarta" : 2500,
+                    "hpcarta" : 2800,
+                    "naturacarta" : "demone"
+                }
+            ]
+        }
+    ]
+}

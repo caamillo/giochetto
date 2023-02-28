@@ -1,0 +1,11 @@
+{
+    "data":[
+        {
+            "name" : "test",
+            "type" : "healthup",
+            "property" : {
+                "hp" : 10
+            }
+        }
+    ]
+}
